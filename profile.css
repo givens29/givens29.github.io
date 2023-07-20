@@ -6,6 +6,7 @@
 }
 .profilePicture{
     width: 400%;
+    margin-top: 10%;
     clip-path: circle();
 }
 .containerProf{
