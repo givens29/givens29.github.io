@@ -5,7 +5,7 @@
     align-items: center;
 }
 .profilePicture{
-
+    width: 400%;
     clip-path: circle();
 }
 .containerProf{
